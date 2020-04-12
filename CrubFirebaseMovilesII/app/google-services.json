@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "577899194592",
+    "firebase_url": "https://crubfirebasemovilesii.firebaseio.com",
+    "project_id": "crubfirebasemovilesii",
+    "storage_bucket": "crubfirebasemovilesii.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577899194592:android:1b5835043c70fbf1e90885",
+        "android_client_info": {
+          "package_name": "com.example.crubfirebasemovilesii"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577899194592-67rm76ni86fmn55lmr5ch48mb86ob2mm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4fbdoeqGpUmwonI484-GZt2j8PSoBf8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577899194592-67rm76ni86fmn55lmr5ch48mb86ob2mm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
